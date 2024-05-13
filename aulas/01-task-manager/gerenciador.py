@@ -16,6 +16,17 @@ def ver_tarefa(tarefas):
 
   return
 
+def atualizar_nome_tarefa(tarefas, indice_tarefa, novo_nome_tarefa):
+  indice_tarefa_ajustado = int(indice_tarefa) - 1
+
+  if indice_tarefa_ajustado >= 0 and indice_tarefa_ajustado < len(tarefas):
+    tarefas[indice_tarefa_ajustado]["tarefa"] = novo_nome_tarefa
+    print(f"Tarefa {indice_tarefa} atualizada para {novo_nome_tarefa}")
+  else: 
+    print("Índice de tarefa inválido")
+
+  return
+
 tarefas = []
 while True:
   print("\nMenu do Gerenciador de Lista de tarefas:")
@@ -33,6 +44,11 @@ while True:
     adicionar_tarefa(tarefas, nome_tarefa)
   elif escolha == "2":
     ver_tarefa(tarefas)
+  elif escolha == "3":
+    ver_tarefa(tarefas)
+    indice_tarefa = input("Digite o número da tarefa que deseja atualizar: ")
+    novo_nome = input("Digite o novo nome da tarefa: ")
+    atualizar_nome_tarefa(tarefas, indice_tarefa, novo_nome)
   elif escolha == "6":
     break
 
