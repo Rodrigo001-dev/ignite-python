@@ -35,6 +35,14 @@ def completar_tarefa(tarefas, indice_tarefa):
   
   return
 
+def deletar_tarefas_completadas(tarefas):
+  for tarefa in tarefas:
+    if tarefa["completada"]:
+      tarefas.remove(tarefa)
+      
+  print("Tarefas completadas foram deletadas.")
+  return
+
 tarefas = []
 while True:
   print("\nMenu do Gerenciador de Lista de tarefas:")
@@ -57,10 +65,16 @@ while True:
     indice_tarefa = input("Digite o número da tarefa que deseja atualizar: ")
     novo_nome = input("Digite o novo nome da tarefa: ")
     atualizar_nome_tarefa(tarefas, indice_tarefa, novo_nome)
+
   elif escolha == "4":
     ver_tarefa(tarefas)
     indice_tarefa = input("Digite o número da tarefa que deseja completar:")
     completar_tarefa(tarefas, indice_tarefa)
+
+  elif escolha == "5":
+    deletar_tarefas_completadas(tarefas)
+    ver_tarefa(tarefas)
+
   elif escolha == "6":
     break
 
