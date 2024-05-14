@@ -10,7 +10,7 @@
 
 # :atom_symbol: Desafios
 
-[Desafio 1](): Desafio feito para praticar os fundamentos do Python
+[Desafio 1](https://github.com/Rodrigo001-dev/ignite-python/tree/main/desafios/ignite-challenge-01): Desafio feito para praticar os fundamentos do Python
 
 ## 💻 Autor
 
