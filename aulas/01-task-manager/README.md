@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Fundamentos Python Gif]()
+![Fundamentos Python Gif](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/01-task-manager/.github/task-manager.gif)
 
 > Essa é a primeira aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar um gerenciador de tarefas via terminal para aprender a base da linguagem.
 
