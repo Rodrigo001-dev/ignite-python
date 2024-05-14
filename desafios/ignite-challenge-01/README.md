@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Ignite Challenge 01 gif]()
+![Ignite Challenge 01 gif](https://github.com/Rodrigo001-dev/ignite-python/blob/main/desafios/ignite-challenge-01/.github/contact-book.gif)
 
 > <b>Primeiro Desafio</b> da trilha de Python da [Rocketseat](https://github.com/Rocketseat), que tem por objetivo criar uma agenda de contatos via terminal onde foi possível realizar um CRUD para os contatos e marcar e desmarcar um contato como favorito.
 
