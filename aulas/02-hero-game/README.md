@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Orientação a objeto com Python]()
+![Orientação a objeto com Python](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/02-hero-game/.github/images/jogo.gif)
 
 > Essa é a segunda aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar um jogo por turnos via terminal para aprender conceitos da orientação a objeto no Python.
 
