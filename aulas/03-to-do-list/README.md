@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![API de to-do list com Python](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/02-hero-game/.github/images/jogo.gif)
+![API de to-do list com Python](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/03-to-do-list/.github/images/to-do-list.gif)
 
 > Essa é a terceira aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar uma api de to-do list utilizando o flask que é um micro-framework de construção de APIs em Python, também foi utilizado o pytest para a criar testes automatizados.
 
