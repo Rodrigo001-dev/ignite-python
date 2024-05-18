@@ -16,7 +16,7 @@ def create_task():
   task_id_control += 1
   tasks.append(new_task)
 
-  return jsonify({ "message": "Nova tarefa criada com sucesso" })
+  return jsonify({ "message": "Nova tarefa criada com sucesso", "id": new_task.id })
 
 @app.route('/tasks', methods=['GET'])
 def get_tasks():
