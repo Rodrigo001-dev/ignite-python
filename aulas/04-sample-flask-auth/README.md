@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Autenticação com flask]()
+![Autenticação com flask](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/04-sample-flask-auth/.github/images/sample-flask-auth.gif)
 
 > Essa é a quarta aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar CRUD de usuários com toda a estrutura de autenticação.
 
