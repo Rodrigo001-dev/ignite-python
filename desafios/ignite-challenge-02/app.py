@@ -18,7 +18,7 @@ def create_user():
 
   if username and password:
     hashed_password = bcrypt.hashpw(str.encode(password), bcrypt.gensalt())
-    user = User(username=username, password=hashed_password, role="user")
+    user = User(username=username, password=hashed_password)
 
     db.session.add(user)
     db.session.commit()
@@ -68,11 +68,11 @@ def update_meal(meal_id):
   if date:
     meal.date = date
   if is_in_diet:
-    meal.is_in_diet = is_in_diet
+    meal.is_in_diet = eval(is_in_diet)
 
   db.session.commit()
 
-  return jsonify({"message": f"Refeição {meal.id} atualizado com sucesso"})
+  return jsonify({"message": f"Refeição {meal.id} atualizada com sucesso"})
 
 @app.route('/meal/<int:meal_id>', methods=["DELETE"])
 def delete_meal(meal_id):
