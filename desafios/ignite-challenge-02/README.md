@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Ignite Challenge 02 gif]()
+![Ignite Challenge 02 gif](https://github.com/Rodrigo001-dev/ignite-python/blob/main/desafios/ignite-challenge-02/.github/images/ignite-challente-02.gif)
 
 > <b>Segundo Desafio</b> da trilha de Python da [Rocketseat](https://github.com/Rocketseat), que tem por objetivo criar uma API de controle de dieta diária(Daily Diet API).
 
