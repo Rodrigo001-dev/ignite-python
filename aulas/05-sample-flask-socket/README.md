@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Socket com flask]()
+![Socket com flask](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/05-sample-flask-socket/.github/images/sample-flask-socket.gif)
 
 > Essa é a quinta aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar uma API de pagamentos e implementar WebSocket para realizar a confirmação de pagamento em tempo real.
 
