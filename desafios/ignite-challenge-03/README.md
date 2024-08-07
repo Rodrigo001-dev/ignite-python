@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Ignite Challenge 03 gif]()
+![Ignite Challenge 03 gif](https://github.com/Rodrigo001-dev/ignite-python/blob/main/desafios/ignite-challenge-03/.github/images/realtime-chat.gif)
 
 > <b>Terceiro Desafio</b> da trilha de Python da [Rocketseat](https://github.com/Rocketseat), que tem por objetivo criar um chat em tempo real de forma simplificada.
 
