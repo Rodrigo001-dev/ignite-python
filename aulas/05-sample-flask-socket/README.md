@@ -13,7 +13,7 @@
 
 # :atom_symbol: Desafios
 
-[Desafio 3](): Desafio para criar uma API com Flask e Socket que funcionará como um chat em tempo real
+[Desafio 3](https://github.com/Rodrigo001-dev/ignite-python/tree/main/desafios/ignite-challenge-03): Desafio para criar uma API com Flask e Socket que funcionará como um chat em tempo real
 
 ## 💻 Autor
 
