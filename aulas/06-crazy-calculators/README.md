@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![calculators]()
+![calculators](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/06-crazy-calculators/.github/images/calculators-gif.gif)
 
 > Essa é a sexta aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar uma aplicação com várias calculadoras utilizando conceitos de design de código e arquitetura de software visando uma construção de projeto simples, facilmente escalável e de fácil manutenção.
 
