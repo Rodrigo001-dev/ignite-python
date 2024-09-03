@@ -6,7 +6,8 @@ disable=
       C0116, # Missing-function-docstring
       W0703, # Catching too general exception Exception
       C0209, # Consider-using-f-string
-      E0015. # unrecognized-option
+      E0015, # unrecognized-option
+      W0311.
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
 # 3 compatible code, which means that the block might have code that exists
@@ -325,7 +326,7 @@ max-returns=6
 max-statements=50
 
 # Minimum number of public methods for a class (see R0903).
-min-public-methods=2
+min-public-methods=0
 
 
 [EXCEPTIONS]
