@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Find a friend]()
+![Find a friend](https://github.com/Rodrigo001-dev/ignite-python/blob/main/aulas/07-find-a-friend/.github/images/find-a-friend.gif)
 
 > Essa é a sétima aplicação criada na trilha Python da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar a aplicação find a friend, que é uma API para adoção de pet. Nela foi aprofundado os conhecimentos sobre arquitetura de software utilizando o padrão MVC(Model View Controller)
 
